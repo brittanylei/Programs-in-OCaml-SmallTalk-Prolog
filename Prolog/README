@@ -1,0 +1,11 @@
+Brittany Lei
+bclei
+bclei@ucsc.edu
+
+Assignment 4: Logic Programming Prolog
+an airline reservation system for the Twilight Zone Airlines written in Prolog;
+prints departure airport, airport, city, name, and time for each leg of trip
+
+Submit:
+README
+functions.pl
