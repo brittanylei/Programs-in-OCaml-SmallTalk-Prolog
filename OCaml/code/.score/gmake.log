@@ -1,0 +1,4 @@
+ocamlc -c bigint.mli
+ocamlc -c bigint.ml
+ocamlc -c maindc.ml
+ocamlc bigint.cmo scanner.cmo maindc.cmo -o ocamldc

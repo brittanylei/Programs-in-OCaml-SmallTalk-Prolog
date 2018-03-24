@@ -1,0 +1,13 @@
+Brittany Lei
+bclei
+bclei@ucsc.edu
+
+Assignment 2: Functionally Ocaml
+a desk calculator in ocaml that emulates dc; prints the same
+
+Submit:
+Makefile
+bigint.ml
+bigint.mli
+maindc.ml
+scanner.mll
